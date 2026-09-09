@@ -1,17 +1,17 @@
 {
     "anonymous switch": {
-        "id": "0349e870-77f4-42fb-9f87-82f6a0e7422f"
+        "id": "####X###-##X#-##XX-#X##-##X#X#X####X"
     },
     "range": {
-        "id": "3a3861a5-6990-6560-0b18-933ccaa1b1e9"
+        "id": "#X####X#-####-####-#X##-###XXXX#X#X#"
     },
     "microwave": {
-        "id": "274daffb-4a6a-1fd7-363d-59a6f5cf79ed"
+        "id": "###XXXXX-#X#X-#XX#-###X-##X#X#XX##XX"
     },
     "refrigerator": {
-        "id": "0556369d-191f-3a6e-1aa6-30509b90b28d"
+        "id": "#######X-###X-#X#X-#XX#-#####X##X##X"
     },
     "oven": {
-        "id": "c264129d-90a1-03d8-921f-98d202a4a0a9"
+        "id": "X######X-##X#-##X#-###X-##X###X#X#X#"
     }
 }
