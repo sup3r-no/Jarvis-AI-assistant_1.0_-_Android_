@@ -6,7 +6,9 @@ Before executing the master installation command, you must grant Termux basic sy
 
 Download and install Termux and Termux:API from F-Droid (do not use the Google Play Store versions).
 
-Open Termux and run termux-setup-storage.
+Open Termux and run
+
+	termux-setup-storage
 
 Accept the Android prompt to grant file access.
 
